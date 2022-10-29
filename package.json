@@ -1,0 +1,24 @@
+{
+  "name": "carrito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a73heredia/carrito.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a73heredia/carrito/issues"
+  },
+  "homepage": "https://github.com/a73heredia/carrito#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

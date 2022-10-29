@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "zapatos",
+    "price": 600,
+    "image": "11111asdasdasd"
+  },
+  {
+    "id": 2,
+    "title": "zapatilla",
+    "price": 15000,
+    "image": "testing cart product"
+  },
+  {
+    "id": 3,
+    "title": "camisa",
+    "price": 2000,
+    "image": "testing cart product 2"
+  },
+  {
+    "id": 4,
+    "title": "pan",
+    "price": 20,
+    "image": "testing cart product 3"
+  },
+  {
+    "id": 5,
+    "title": "zapatos",
+    "price": 600,
+    "image": "11111asdasdasd"
+  },
+  {
+    "id": 6,
+    "title": "zapatos",
+    "price": 600,
+    "image": "11111asdasdasd"
+  },
+  {
+    "id": 7,
+    "title": "zapatos333",
+    "price": 60660,
+    "image": "11111asdasdasd"
+  }
+]
